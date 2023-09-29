@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "legacy_uid": "060d2096-c4f1-c49c-81f4-09a60649433e",
+  "instructors": {
+    "content": [
+      "c3112142-9ab3-c628-e596-a39ed2eeb7bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c44a93b7-2897-21d9-20ea-7d7be5f44db2",
+    "website": "22-312-engineering-of-nuclear-reactors-fall-2015"
+  },
+  "course_title": "Engineering of Nuclear Reactors",
+  "course_description": "Engineering principles of nuclear reactors, emphasizing power reactors. Topics include power plant thermodynamics, reactor heat generation and removal (single-phase as well as two-phase coolant flow and heat transfer), structural mechanics, and engineering considerations in reactor design.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.312",
+  "course_image_thumbnail": {
+    "content": "08296a70-b783-5773-6b5f-1f995f09d10d",
+    "website": "22-312-engineering-of-nuclear-reactors-fall-2015"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets"
+  ],
+  "site_uid": "4e147598-7966-4530-ba85-405d3d47512f",
+  "site_short_id": "22.312-fall-2015",
+  "title": "Course Metadata"
+}
